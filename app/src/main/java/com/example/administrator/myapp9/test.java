@@ -5,4 +5,10 @@ package com.example.administrator.myapp9;
  */
 
 public class test {
+
+
+    public static void t(){
+        System.out.println("ss");
+
+    }
 }
