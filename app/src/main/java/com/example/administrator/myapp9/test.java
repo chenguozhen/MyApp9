@@ -8,7 +8,7 @@ public class test {
 
 
     public static void t(){
-        System.out.println("ss");
+        System.out.println("ss3");
 
     }
 }
